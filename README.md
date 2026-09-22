@@ -1,6 +1,6 @@
 ## Hi, I'm Samarth 👋
 
-🎓 CS student at South Dakota Mines (’26)  
+🎓 CS grad from South Dakota Mines (’26)  
 💻 Full-stack developer  
 
 ### 🚀 Experience
@@ -9,7 +9,8 @@
 
 ### 🧠 Projects
 - **Billing & Subscription Automation System**
-- **TalentSift** – Intern recruitment platform
+- **ThreadTalk** - Real Time Chat Application
+- **TalentSift** - Intern recruitment platform
 
 ### 📫 Let's connect
 - LinkedIn: https://linkedin.com/in/samarthnaik7
